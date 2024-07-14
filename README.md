@@ -1,4 +1,3 @@
-Sure! Here's your "Read Me" with emojis added for a bit of flair:
 
 ---
 
