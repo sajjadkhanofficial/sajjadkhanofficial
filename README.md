@@ -40,5 +40,6 @@ Feel free to reach out if you have any questions or if you're interested in coll
 - **LinkedIn:** My LinkedIn Profile got banned due to under age issue.
 
 Thanks for visiting my profile! Happy coding!
+
 Visit my portfolio site here: https://sajjadkhan.odoo.com/
 ---
